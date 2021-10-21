@@ -1,0 +1,22 @@
+{
+  "name": "tw-tiny-ripples",
+  "version": "1.0.0",
+  "description": "Tailwind colour palette for Tiny Ripples colour scheme from Canva. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahsibert/tw-tiny-ripples.git"
+  },
+  "keywords": [
+    "Tailwind"
+  ],
+  "author": "Sarah Sibert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarahsibert/tw-tiny-ripples/issues"
+  },
+  "homepage": "https://github.com/sarahsibert/tw-tiny-ripples#readme"
+}
